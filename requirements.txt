@@ -1,7 +1,7 @@
 bqplot==0.11.6
 future==0.17.1
 jellyfish==0.7.2
-Jinja2==2.10.1
+Jinja2==2.11.3
 joblib==0.13.2
 json5==0.8.5
 jsonschema==3.0.2
