@@ -1,5 +1,5 @@
 bqplot==0.11.6
-future==0.17.1
+future==0.18.3
 jellyfish==0.7.2
 Jinja2==2.11.3
 joblib==1.2.0
