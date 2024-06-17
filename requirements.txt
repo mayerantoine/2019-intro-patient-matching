@@ -11,6 +11,6 @@ pandas==0.25.0
 pandocfilters==1.4.2
 recordlinkage==0.14
 requests==2.31.0
-scikit-learn==0.21.2
+scikit-learn==1.5.0
 scipy==1.10.0
 metaphone==0.6
